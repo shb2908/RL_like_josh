@@ -1,7 +1,7 @@
 
 # Reinforcement is All you need !
 
-## 1. REINFORCE Algorithm 
+<!-- ## 1. REINFORCE Algorithm 
 
 Objective:
 $$
@@ -14,4 +14,4 @@ $$
 $$
 where $R(\tau)$ is the total reward of trajectory $\tau$.
 
-REINFORCE uses Monte Carlo sampling to estimate this gradient and update $\theta$.
+REINFORCE uses Monte Carlo sampling to estimate this gradient and update $\theta$. -->
